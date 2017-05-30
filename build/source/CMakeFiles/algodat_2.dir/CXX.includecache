@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/karoline/Dokumente/studium/17_sose/algorithmen_und_datenstrukturen/algodat_2/source/algodat_2.cpp
+vector
+-
+algorithm
+-
+iostream
+-
+sstream
+-
+string
+-
+iterator
+-
+
